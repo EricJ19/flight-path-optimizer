@@ -3,7 +3,7 @@
 ![Flight Path Map](/src/graphicalOutputDemo.png)
 
 ## About The Project
-For the project, we chose the OpenFlights Dataset to create a graph. Our objective was to calculate the sequence of routes to take in order to minimize the physical traveling distance between two airports. We completed this by implementing Dijkstra's algorithm.Another algorithm used is Breadth-First Search which allows us to figure out if we are able to travel between the two airports given.
+For the project, we chose the OpenFlights Dataset to create a graph. Our objective was to calculate the sequence of routes to take in order to minimize the physical traveling distance between two airports. We completed this by implementing Dijkstra's algorithm. Another algorithm used is Breadth-First Search which allows us to figure out if we are able to travel between the two airports given.
 
 ## Dataset
 https://openflights.org/data.html

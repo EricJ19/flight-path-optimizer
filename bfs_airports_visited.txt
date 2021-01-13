@@ -1,14 +1,3 @@
-Start of BFS between ORD and SFO
-ORD
-ACY
-BOS
-DEN
-DFW
-FLL
-IAH
-LAS
-LAX
-LGA
-MCO
-MSP
-SFO
+Start of BFS between AAA and DDD
+AAA
+BBB
